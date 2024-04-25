@@ -1,6 +1,29 @@
-.headline {
+.header,
+.part_one,
+.footer {
     background-color: #1F2937;
     color: white;
+}
+
+.part_one {
+
+}
+.part_three {
+    background-color: #E5E7EB;
+}
+
+.headline {
     font-size: 48px;
-    font-weight:bolder;
+    font-weight: extra-bold;
+}
+
+.part_four{
+    background-color: #3882F6;
+    color: white;
+}
+
+
+.blue_button {
+    background-color: #3882F6;
+    color: white;
 }
